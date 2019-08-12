@@ -1,2 +1,2 @@
 # job4j
-changes
+я начал курс job4j.
